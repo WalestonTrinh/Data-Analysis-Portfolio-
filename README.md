@@ -31,4 +31,4 @@ Dans ce projet, j'analyse les données issues d'un site e-commerce afin de déco
 Je cherche à identifier des modèles intéressants, tels que les produits les plus populaires, l'impact des promotions sur les ventes, ainsi que les tendances temporelles des achats. En outre, cette analyse vise à déceler des opportunités d'optimisation pour maximiser les performances de la plateforme. À terme, je vais proposer des recommandations stratégiques basées sur ces résultats afin d'améliorer l'expérience client et augmenter les ventes.
 
 
-Le projet est en cours de préparation. Vous pourrez consulter l'analyse complète ici dès qu'elle sera disponible : [Voir le projet complet](#)
+Le projet est en cours de préparation. Vous pourrez consulter l'analyse complète ici dès qu'elle sera disponible : [[[Voir le projet complet](#)](https://github.com/WalestonTrinh/E-commerce-data-analysis)](https://github.com/WalestonTrinh/E-commerce-data-analysis)

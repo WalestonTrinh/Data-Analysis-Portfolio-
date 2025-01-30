@@ -20,4 +20,6 @@ N’hésitez pas à explorer mes repositories et à me contacter pour toute disc
 📫 Contact : https://www.linkedin.com/in/walestontrinh/
 
 
-## Table of Contents
+## 🔍 Table of Contents
+
+## 📊 Projets

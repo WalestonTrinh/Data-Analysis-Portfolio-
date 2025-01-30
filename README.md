@@ -23,3 +23,9 @@ N’hésitez pas à explorer mes repositories et à me contacter pour toute disc
 ## 🔍 Table of Contents
 
 ## 📊 Projets
+
+🚀 Analyse des Tendances de Consommation dans un Site E-commerce 📊
+
+Dans ce projet, j'analyse les données issues d'un site e-commerce afin de découvrir des insights clés sur les comportements d'achat des utilisateurs. Mon objectif est d'explorer les différents facteurs qui influencent les ventes, tels que les catégories de produits, les réductions appliquées, les méthodes de paiement et les habitudes d'achat des utilisateurs.
+
+Je cherche à identifier des modèles intéressants, tels que les produits les plus populaires, l'impact des promotions sur les ventes, ainsi que les tendances temporelles des achats. En outre, cette analyse vise à déceler des opportunités d'optimisation pour maximiser les performances de la plateforme. À terme, je vais proposer des recommandations stratégiques basées sur ces résultats afin d'améliorer l'expérience client et augmenter les ventes.

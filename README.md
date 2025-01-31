@@ -10,7 +10,7 @@ Bienvenue sur mon GitHub ! 🎯
 
 🔹 Analyse de données : Manipulation de datasets, visualisation et reporting
 
-🔹 E-commerce & Business Intelligence : Analyse des performances, optimisation des stratégies digitales
+🔹 E-commerce & Business Intelligence : Analyse des performances, optimisation des stratégies 
 
 🚀 Ce GitHub regroupe mes projets en analyse de données et e-commerce, réalisés dans le cadre de mes études et de mes apprentissages personnels.
 

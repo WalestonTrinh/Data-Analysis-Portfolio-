@@ -2,8 +2,7 @@
 
 ## 📌 Introduction  
 
-Bienvenue sur mon GitHub ! Je suis étudiant en école de commerce avec une spécialisation en data analytics
-Bienvenue sur mon GitHub ! 🎯
+Bienvenue sur mon GitHub ! 🎯 Je suis étudiant en école de commerce avec une spécialisation en data analytics
 
 Étudiant en école de commerce avec une spécialisation en e-commerce et data analysis, je me forme aux outils, IA et méthodologies de l’analyse de données pour optimiser la prise de décision. Mon objectif est de devenir Data / Business Analyst, en combinant compétences techniques et compréhension des enjeux business.
 

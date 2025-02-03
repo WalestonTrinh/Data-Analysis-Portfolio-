@@ -23,9 +23,10 @@ N’hésitez pas à explorer mes repositories et à me contacter pour toute disc
 
 # 📊 Projets
 
-## 🚀 SQL : 📊
+## 🚀 Analyse de l'impact des promotions sur le chiffre d'affaire d'un site e-commerce : 📊
 
-D
+https://github.com/WalestonTrinh/E-commerce-data-analysis
+
 
 
 ## 🚀 Research Project - Amélioration de l'Expérience Utilisateur du site d'éducation de SKEMA busines school (YEP) à travers l'Analyse de Données 📊

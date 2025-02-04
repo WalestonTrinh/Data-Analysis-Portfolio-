@@ -19,15 +19,6 @@ N’hésitez pas à explorer mes repositories et à me contacter pour toute disc
 📫 Contact : https://www.linkedin.com/in/walestontrinh/
 
 
-## 🔍 Tout les projets :
-
-Projet 1 : [🚀 Analyse de l'impact des promotions sur le chiffre d'affaire d'un site e-commerce](https://github.com/WalestonTrinh/Portfolio/edit/main/README.md#-analyse-de-limpact-des-promotions-sur-le-chiffre-daffaire-dun-site-e-commerce--)
-
-Projet 2 : En cours
-
-Projet 3 : en cours
-
-
 
 #  📊 Projets
 
@@ -55,6 +46,7 @@ Ce projet explore l’effet des promotions sur les performances d’un site e-co
     Recommandations business basées sur les résultats pour optimiser les promotions.
 
 🚀 Compétences mises en avant
+
 ✔ Analyse et manipulation de données en SQL
 
 ✔ Visualisation et reporting avec Power BI & Excel

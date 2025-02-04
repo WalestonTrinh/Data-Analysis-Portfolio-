@@ -28,11 +28,15 @@ N’hésitez pas à explorer mes repositories et à me contacter pour toute disc
 Impact des Promotions sur les Ventes et le Chiffre d’Affaires – Analyse Data & Business
 
 💡 Résumé du projet
+
 Ce projet explore l’effet des promotions sur les performances d’un site e-commerce. À travers une analyse approfondie des données de ventes, j’ai étudié comment les réductions influencent le nombre de commandes, le panier moyen et le chiffre d’affaires global.
 
 📊 Principaux résultats
+
 ✅ Les promotions trop élevées (>20%) réduisent le chiffre d’affaires au lieu de l’augmenter.
+
 ✅ Certaines catégories de produits réagissent mieux que d’autres aux réductions.
+
 ✅ Une stratégie d’optimisation des promotions par catégorie permettrait d’améliorer la rentabilité.
 
 🔍 Méthodologie
@@ -44,8 +48,11 @@ Ce projet explore l’effet des promotions sur les performances d’un site e-co
 
 🚀 Compétences mises en avant
 ✔ Analyse et manipulation de données en SQL
+
 ✔ Visualisation et reporting avec Power BI & Excel
+
 ✔ Stratégie business et prise de décision basée sur les données
+
 ✔ Présentation claire et storytelling analytique
 
 🔗 Lien vers le projet GitHub : https://github.com/WalestonTrinh/E-commerce-data-analysis

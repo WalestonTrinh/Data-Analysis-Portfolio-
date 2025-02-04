@@ -21,11 +21,11 @@ N’hésitez pas à explorer mes repositories et à me contacter pour toute disc
 
 ## 🔍 Table of Contents
 
-Project 1 : https://github.com/WalestonTrinh/Portfolio/blob/main/README.md#-analyse-de-limpact-des-promotions-sur-le-chiffre-daffaire-dun-site-e-commerce--
+Projet 1 : [🚀 Analyse de l'impact des promotions sur le chiffre d'affaire d'un site e-commerce](#-analyse-de-limpact-des-promotions-sur-le-chiffre-daffaire-dun-site-e-commerce-)
 
 
 
-# 📊 Projets
+#  📊 Projets
 
 ## 🚀 Analyse de l'impact des promotions sur le chiffre d'affaire d'un site e-commerce : 📊
 

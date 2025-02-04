@@ -19,7 +19,7 @@ N’hésitez pas à explorer mes repositories et à me contacter pour toute disc
 📫 Contact : https://www.linkedin.com/in/walestontrinh/
 
 
-## 🔍 Table of Contents
+## 🔍 Tout les projets :
 
 Projet 1 : [🚀 Analyse de l'impact des promotions sur le chiffre d'affaire d'un site e-commerce](#-analyse-de-limpact-des-promotions-sur-le-chiffre-daffaire-dun-site-e-commerce-)
 

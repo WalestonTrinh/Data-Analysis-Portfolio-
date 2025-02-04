@@ -21,6 +21,12 @@ N’hésitez pas à explorer mes repositories et à me contacter pour toute disc
 
 ## 🔍 Table of Contents
 
+## Table of Contents
+- [Projet  1:  Analyse de l'impact des promotions sur le chiffre d'affaire d'un site e-commerce](#🚀 Analyse de l'impact des promotions sur le chiffre d'affaire d'un site e-commerce : 📊)
+- [Project 2: Title](#project-2-title)
+- [Project 3: Title](#project-3-title)
+
+
 # 📊 Projets
 
 ## 🚀 Analyse de l'impact des promotions sur le chiffre d'affaire d'un site e-commerce : 📊

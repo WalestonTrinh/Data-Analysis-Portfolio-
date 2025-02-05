@@ -59,7 +59,7 @@ Ce projet explore l’effet des promotions sur les performances d’un site e-co
 
 
 
-## 🚀 Research Project - Amélioration de l'Expérience Utilisateur du site d'éducation de SKEMA busines school (YEP) à travers l'Analyse de Données 📊
+## 🚀 Research Project - Amélioration de l'Expérience Utilisateur du site de SKEMA business school (YEP) à travers l'Analyse de Données 📊
 
 
 Dans ce projet, j'ai mené une collecte de données à travers des sondages pour recueillir les avis des étudiants et des participants sur différents programmes scolaires proposés par SKEMA. L'objectif était d'analyser ces retours afin de dégager des tendances et des insights qui permettraient d'optimiser l'expérience utilisateur sur le site web de l'école. En explorant des données sur les préférences des utilisateurs, leur niveau de satisfaction, et les aspects spécifiques de chaque programme qui peuvent être améliorés, j'ai pu proposer des recommandations pour rendre le site plus engageant et mieux adapté aux besoins des visiteurs. Ce projet m'a permis de combiner des compétences en collecte et analyse de données pour influencer positivement la stratégie digitale de SKEMA business school. (En cours)
